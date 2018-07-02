@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5057780113",
+    "firebase_url": "https://stereoplayer-bd03b.firebaseio.com",
+    "project_id": "stereoplayer-bd03b",
+    "storage_bucket": "stereoplayer-bd03b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5057780113:android:51b0856d0aa593d3",
+        "android_client_info": {
+          "package_name": "com.arash.stereoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5057780113-kq397jpgtnsdgtdn8vgnvhvmkm9oq9vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arash.stereoplayer",
+            "certificate_hash": "5c4e19dc78cfa77e10c5596df8bef554def5c613"
+          }
+        },
+        {
+          "client_id": "5057780113-cqgigiaeqd07hg340l1c965adok64i97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHnvmxQEVxOXSuCPfQKbOBfGXFzXVBWW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5057780113-cqgigiaeqd07hg340l1c965adok64i97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
