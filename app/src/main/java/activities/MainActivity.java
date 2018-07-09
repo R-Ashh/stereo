@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import com.arash.stereoplayer.R;
 
-public class MainActivity extends DrawerActivity {
+public class MainActivity extends BaseActivity {
 
     private ImageView topBarRightImage, topBarLeftImage;
     private TextView topBarMidText;
@@ -19,6 +19,16 @@ public class MainActivity extends DrawerActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.main_activity);
+        setContentView(R.layout.activity_main);
+        
+        initViews();
+        inflateHomeItems();
+    }
+
+    private void inflateHomeItems() {
+
+    }
+
+    private void initViews() {
     }
 }
